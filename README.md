@@ -26,7 +26,7 @@ A fun and interactive **Tic Tac Toe** game built with **HTML**, **CSS**, and **J
 5. Follow the game status to see the winner or if it's a draw.
 
 ## File Structure
-- `tictactoe.html`: The main HTML file for the game.
+- `index.html`: The main HTML file for the game.
 - `tictactoe.css`: Stylesheet for game design and animations.
 - `tictactoe.js`: JavaScript file containing the game logic.
 
